@@ -1,6 +1,6 @@
 ###### Installation
 To install run composer install
 ###### Test
-To test :
-cd tests
+To test run :
+cd tests && 
 phpunit
